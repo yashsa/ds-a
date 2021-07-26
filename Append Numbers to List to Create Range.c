@@ -18,4 +18,5 @@ int solve(vector<int>& nums, int k) {
         maxSumAchievableTillNow=2*maxSumAchievableTillNow+1;
     }
     return count;
+    
 }
